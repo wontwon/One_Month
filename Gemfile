@@ -4,7 +4,7 @@ gem 'rails', '3.2.13'
 gem 'jquery-rails'
 
 group :production do
-gem 'pg'
+	gem 'pg'
 end
 
 group :development, :test do
